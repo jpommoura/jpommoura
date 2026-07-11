@@ -1,16 +1,21 @@
-## Hi there 👋
+# João Pedro Oliveira Monteiro Moura
 
-<!--
-**jpommoura/jpommoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na PUC Minas, com foco em desenvolvimento web e interesse em ampliar conhecimento para outras áreas da tecnologia.
 
-Here are some ideas to get you started:
+Contagem, MG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+
+**[NexTrip](https://github.com/jpommoura/NexTrip)**
+Aplicação de itinerários de viagem com carregamento dinâmico de dados, sistema de favoritos, login e painel administrativo com CRUD. Bootstrap 5 + JSON Server.
+
+**[Vigilare](https://github.com/jpommoura/vigilare)**
+Plataforma de segurança comunitária desenvolvida em grupo, com fórum de comentários e páginas de ocorrência vinculadas dinamicamente. Bootstrap 5 + JSON Server.
+
+## Tecnologias
+
+HTML5 · CSS3 · JavaScript · Bootstrap 5 · Git · JSON Server
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-monteiro-moura-a91800393/)
